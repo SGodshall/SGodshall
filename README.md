@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SGodshall
 - 👀 I’m interested in ... Transforming the healthcare system using blockchain
-- 🌱 I’m currently learning ... photo-plethysmography algoirithms for smart phone cameras to read heart rate and facial recongition
+- 🌱 I’m currently learning ... photo-plethysmography algorithms for smart phone cameras to read heart rate and facial recongition simultaneously
 - 💞️ I’m looking to collaborate on ... The above
 - 📫 How to reach me ... stephenGodshall@Gmail.com
 
